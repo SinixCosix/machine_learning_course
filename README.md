@@ -1,3 +1,3 @@
-# machine_learning_course
+# Andrew Vasilev
 ### Google Collab:
 https://colab.research.google.com/drive/11oqbui9reHB2dDi8SV0k5BbZxTJTm7DQ?usp=sharing
